@@ -1,2 +1,2 @@
-# Project-21_Bullets-Walls
-Damage test for walls against bullets
+# p5.play-boilerplate
+Boiler plate for p5.play
